@@ -7,7 +7,7 @@ Author: SRMK
 public class Fibonacci
 {
     
-    final int MAX = 100;
+    final int MAX = 1000;
     final int NIL = -1;
     int lookUp[] = new int [MAX];
     
